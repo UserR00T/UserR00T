@@ -20,6 +20,7 @@ _Note: At the moment I am more active on [gitlab](https://gitlab.com/userr00t)_
 ![](https://img.shields.io/badge/C%23-Fody.Costura-informational?style=flat-square&color=901838)
 ![](https://img.shields.io/badge/C%23-commandline-informational?style=flat-square&color=901838)
 ![](https://img.shields.io/badge/C%23-Microsoft.CodeAnalysis.CSharp-informational?style=flat-square&color=901838)
+![](https://img.shields.io/badge/C%23-CliFx-informational?style=flat-square&color=901838)
 
 **Javascript**  
 ![](https://img.shields.io/badge/JS-VanillaJS-informational?style=flat-square&color=d84030)
