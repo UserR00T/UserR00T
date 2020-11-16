@@ -3,11 +3,6 @@
 
 _Note: At the moment I am more active on [gitlab](https://gitlab.com/userr00t)_
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=UserR00T&count_private=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UserR00T&layout=compact" />
-</p>
-
 ![](https://img.shields.io/badge/Language-C%23-informational?style=flat-square&color=901838)
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat-square&color=d84030)
 ![](https://img.shields.io/badge/Language-Typescript-informational?style=flat-square&color=f05020)
