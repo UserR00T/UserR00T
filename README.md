@@ -1,7 +1,7 @@
 ## Hi, I am [UserR00T](https://userrr00t.com)
 > I develop (and _mostly_ break) software.  
 
-_Note: At the moment currrently a bit more active on [gitlab](https://gitlab.com/userr00t)_
+_Note: At the moment I am more active on [gitlab](https://gitlab.com/userr00t)_
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=UserR00T&count_private=true" />
