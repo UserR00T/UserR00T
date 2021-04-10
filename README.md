@@ -1,8 +1,6 @@
 ## Hi, I am [UserR00T](https://userr00t.com)
 > I develop (and _mostly_ break) software.  
 
-_Note: At the moment I am more active on [gitlab](https://gitlab.com/userr00t)_
-
 ![](https://img.shields.io/badge/Language-C%23-informational?style=flat-square&color=901838)
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat-square&color=d84030)
 ![](https://img.shields.io/badge/Language-Typescript-informational?style=flat-square&color=f05020)
